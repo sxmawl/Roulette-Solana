@@ -1,0 +1,1 @@
+On successful win, the user will get the prize money (Amount*Ratio) in their wallet. NOTE: Only a maximum of 2.5 SOL can be staked during a single guess.
