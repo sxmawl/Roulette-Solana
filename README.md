@@ -1,17 +1,17 @@
 # Roulette
-A simple guess can earn you some SOL
+A simple guess can earn you some SOL.
 On successful win, the user will get the prize money (Amount*Ratio) in their wallet. 
 NOTE: Only a maximum of 1 SOL can be staked during a single guess.
 
 
 # Pre-requisites
-- Install [Node.js](https://nodejs.org/en/) version 8.0.0
+- Install [Node.js](https://nodejs.org/en/)
 
 
 # Getting started
 - Clone the repository
 ```
-git clone  <git lab template url> <project_name>
+git clone  <github repo url>
 ```
 - Install dependencies
 ```
